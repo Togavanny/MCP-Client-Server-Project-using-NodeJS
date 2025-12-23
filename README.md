@@ -71,3 +71,15 @@ This mirrors how AI tools query external systems for context without relying on 
       node build/server.js
 (Client execution depends on your MCP setup or test harness.)
 
+---
+
+🧪 Why This Matters
+
+Modern AI systems increasingly rely on protocol-driven context sharing rather than monolithic APIs. This project provides a hands-on foundation for understanding:
+
+- AI tool integrations
+- Context-aware systems
+- Protocol-oriented backend design
+- Developer tooling workflows
+
+---
