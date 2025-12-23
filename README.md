@@ -39,4 +39,12 @@ This repository focuses on **clarity over complexity**, making it ideal for lear
 
 ## 📁 Project Structure
 
+      ├── client.ts # MCP client implementation
+      ├── server.ts # MCP server implementation
+      ├── users.json # Sample data source
+      ├── mcp.json # MCP server configuration
+      ├── package.json
+      ├── package-lock.json
+      └── README.md
+
 
